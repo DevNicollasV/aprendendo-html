@@ -1,0 +1,21 @@
+.corazul {
+    color: red;
+}
+
+div {
+    margin-top: 50px;
+}
+
+.container-1 {
+    background-color: blue;
+    border: 5px solid red;
+}
+
+.container-2 {
+    background-color: orange;
+    border: 2px solid blue;
+}
+
+.sobrenomeBranco {
+    color: white;
+}

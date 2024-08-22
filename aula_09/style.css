@@ -1,0 +1,16 @@
+div {
+    background-color: aqua;
+}
+
+.um {
+    background-color: cadetblue;
+}
+
+.tres {
+    background-color: yellowgreen;
+}
+
+body {
+    background-image: url("https://quatrorodas.abril.com.br/wp-content/uploads/2020/08/QR-736-CARRO-MB-A200-01-1.jpg?resize=150");
+    background-repeat: round;
+}
